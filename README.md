@@ -35,7 +35,7 @@ minutes. Some rentals went longer than 2 hours and 59 minutes, but they make up
 a very small part of the dataset.
 
 The third slide shows Trip Duration by Gender.  
-![Trip_Duration_Gender](images/Trip_Duration_Gender.png)
+![Trip_Duration_Gender](images/Trip_Duraction_Gender.png)
 
 This chart is similar to the previous chart except that it adds further
 information showing a breakdown of trip duration by gender.
