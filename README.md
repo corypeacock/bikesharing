@@ -63,6 +63,9 @@ subscribers. This is further divided by the columns displaying gener disclosure
 information. the darker the blue area in this heatmap, the higher the number of
 bike rentals.
 
+The Tableau Story described above can be found here:
+[Tableau_story](https://public.tableau.com/app/profile/cory.peacock/viz/BCMod14_Challenge/CitiBikeDesMoines)  
+
 ## Summary
 The data analyzed from NYC CitiBike has been very informative. The greatest
 number of rentals occurs in the early morning (6-9 am) and evening (6-9 pm). Men
