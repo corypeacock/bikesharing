@@ -15,8 +15,8 @@ place them around our lovely Des Moines, ready for rental.
 * Python, using Pandas
 
 ## Results
-The first slide in our story shows the following:
-[NYC_Overview](images/NYC_Overview.png)
+The first slide in our story shows the following:  
+![NYC_Overview](images/NYC_Overview.png)
 
 This is a brief snapshot of NYC CitiBike. The map shows WHERE bikes begin the
 journey within the city. The chart on the right shows WHEN they begin. The pie
@@ -25,8 +25,8 @@ chart at the bottom shows WHO rents the bikes.
 N.B. This slide shows three different graphs from the module on one slide in the
 slide deck.
 
-The second slide shows Trip Duration.
-[Trip_Duration](images/Trip_Duration.png)
+The second slide shows Trip Duration.  
+![Trip_Duration](images/Trip_Duration.png)
 
 This chart shows the number of bikes rented by trip duration. Overall, the
 further right one goes on the chart, the longer the duration. The chart is
@@ -34,27 +34,27 @@ broken down into three facets for length of rental: 0, 1, or 2 hours, plus
 minutes. Some rentals went longer than 2 hours and 59 minutes, but they make up
 a very small part of the dataset.
 
-The third slide shows Trip Duration by Gender.
-[Trip_Duration_Gender](images/Trip_Duration_Gender.png)
+The third slide shows Trip Duration by Gender.  
+![Trip_Duration_Gender](images/Trip_Duration_Gender.png)
 
 This chart is similar to the previous chart except that it adds further
 information showing a breakdown of trip duration by gender.
 
-The fourth slide shows a rental heatmap.
-[Rental_heatmap](images/Rental_heatmap.png)
+The fourth slide shows a rental heatmap.  
+![Rental_heatmap](images/Rental_heatmap.png)
 
 This heatmap shows the start time of bike rentals. Across the top (columns) are
 the days of the week. The rows show the hour of the day. The darker red areas
 show the day-times during which rental starting times are the most frequent.
 
-The fifth slide shows a rental heatmap by gender.
-[Rental_heatmap_Gender](images/Rental_heatmap_Gender.png)
+The fifth slide shows a rental heatmap by gender.  
+![Rental_heatmap_Gender](images/Rental_heatmap_Gender.png)
 
 Here, again, we have a similar heatmap to the previous heatmap. This chart,
 however, shows the difference in day-time rental starting times by gender.
 
-The sixth slide shows a rental heatmap by user type.
-[Rental_heatmap_RenterType](images/Rental_heatmap_RenterType.png)
+The sixth slide shows a rental heatmap by user type.  
+![Rental_heatmap_RenterType](images/Rental_heatmap_RenterType.png)
 
 This heatmap shows the number of rentals by several categories. Days of the week
 are rows along the side. The topmost set of days of the week show the rentals of
